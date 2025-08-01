@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\P3Tarea3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\context\\p3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\services\\citasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\interfaces\\icitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}|P3Tarea3\\P3Tarea3.csproj|c:\\users\\daniel alexander\\source\\repos\\p3tarea3\\p3tarea3\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasServices.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Services\\CitasServices.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Services\\CitasServices.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Services\\CitasServices.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Services\\CitasServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:24:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P3Context.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Context\\P3Context.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Context\\P3Context.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Context\\P3Context.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Context\\P3Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:07:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICitas.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Interfaces\\ICitas.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Interfaces\\ICitas.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Interfaces\\ICitas.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Interfaces\\ICitas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:26:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\CitasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:09:32.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T22:02:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\appsettings.json",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T19:04:37.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:58:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Citas.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Citas.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Citas.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Citas.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Citas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:58:33.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Program.cs",
+              "RelativeToolTip": "..\\Users\\Daniel alexander\\source\\repos\\P3Tarea3\\P3Tarea3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:57:26.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

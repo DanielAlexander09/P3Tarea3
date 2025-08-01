@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3Tarea3", "P3Tarea3\P3Tarea3.csproj", "{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3Tarea3", "..\Users\Daniel alexander\source\repos\P3Tarea3\P3Tarea3\P3Tarea3.csproj", "{6E73A831-CC6A-44ED-8E00-7A90C6A7B1C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
